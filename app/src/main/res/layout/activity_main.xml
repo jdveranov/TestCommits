@@ -21,6 +21,8 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:backgroundTint="#EAD944"
+        android:shadowColor="#FFEB3B"
         android:text="Next"
         tools:layout_editor_absoluteX="149dp"
         tools:layout_editor_absoluteY="566dp" />
